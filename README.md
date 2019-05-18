@@ -59,3 +59,64 @@ public class Main
 
 	}
 }
+
+
+
+//soal terakhir
+
+<!doctype html>
+<html>
+
+	<head>
+		<title> ini website saya soal terakhir</title>
+	</head>
+	<body>
+	<center/>
+	
+
+	<form method="post" action="proses.php"> 
+	
+	<table border="1"> 
+		<tr>
+			<td> <input type="text" name="nama" required placeholder="tambah programer baru"/> </td>
+			<td/>
+			<td> <input type="submit" value="tambah"/>
+		</td>
+		</tr>
+		<tr>
+			<td> nama user </td>
+			<td> <input type="text" name="nama" required placeholder="tambah skill"/> </td>
+			<td> <input type="submit" value="tambah"/>
+		</tr>
+		<tr>
+			<td> nama user 2</td>
+			<td> <input type="text" name="nama" required placeholder="tambah skill"/> </td>
+			<td> <input type="submit" value="tambah"/>
+		</tr>
+		<tr>
+			<td> skill</td>
+			<td> <input type="text" name="nama" required placeholder="tambah skill"/> </td>
+			<td> <input type="submit" value="tambah"/>	
+		</tr>
+		
+		<tr>
+			<td> </td>
+			<td> <input type="reset" value="reset"/> 
+			<input type="submit" value="kirim data"/></td>
+		</tr>
+		
+
+	</table>
+
+	
+	</form>
+		
+	
+	</body>
+	   
+</html>
+
+
+
+
+
